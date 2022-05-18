@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Mayara. 👋
 
-- 🌱 Estudando CSS;
+- 🌱 Estudante de Desenvolvimento de Sistemas Multiplataformas;
+- 
 -  😄 Pronomes: Ela/dela.
 <div align="center">
   <a href="https://github.com/mayarakaren">

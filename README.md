@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Mayara. 👋
 
-- 🌱 Técnica em Desenvolvimento de Sistemas;
-- 🌱 Graduanda de Desenvolvimento de Sistemas Multiplataformas;
--  😄 Pronomes: Ela/dela.
+- 👩🏽‍💻| Técnica em Desenvolvimento de Sistemas;
+- 📚| Cursando Desenvolvimento de Sistemas Multiplataformas - (3/6);
+- 👩🏽‍💻| Pronomes: Ela/dela.
+
 <div align="center">
   <a href="https://github.com/mayarakaren">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayarakaren&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

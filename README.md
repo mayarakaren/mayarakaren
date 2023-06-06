@@ -69,7 +69,7 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
     - Colaboração e revisão de documentos: Utilizo recursos de revisão e comentários do Overleaf para colaborar efetivamente com colegas de equipe, professores e orientadores. 
     Tenho experiência em lidar com sugestões e alterações em documentos LaTeX e incorporá-las ao trabalho final.
 
-    Estou entusiasmada em aplicar minha experiência com o Overleaf em projetos futuros, e estou aberto(a) a novas oportunidades de colaboração e aprendizado.
+    Estou entusiasmada em aplicar minha experiência com o Overleaf em projetos futuros, e estou aberta a novas oportunidades de colaboração e aprendizado.
 
     ## Certificações
 

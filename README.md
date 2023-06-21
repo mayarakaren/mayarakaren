@@ -128,7 +128,5 @@ Se você gostaria de discutir uma oportunidade de colaboração, tem alguma perg
 Ficarei feliz em ajudar! 😊<br><br>
      <a href = "mailto:mayaramarques9738@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/mayara-karen-808059211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://discordapp.com/users/Léa Gê#8493" target="_blank"><img src="https://discord.com/channels/@me" target="_blank"></a> 
-     <a href="https://discordapp.com/users/Léa Gê#8493" target="_blank"><img src="https://img.shields.io/badge/discord.com/channels/@me&logo=discord&logoColor=white" target="_blank"></a> 
       
 </div>

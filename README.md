@@ -27,7 +27,7 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
   <img align="center" alt="Rafa-CSS" height="50" src="https://simpleicons.org/icons/css3.svg">
   <img align="center" alt="JS" height="50" src="https://simpleicons.org/icons/javascript.svg">
   <img align="center" alt="BOOTSTRAP" height="50" src="https://simpleicons.org/icons/bootstrap.svg"/>
-  <img align="center" alt="JAVA" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="JAVA" height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/java-512.png"/>
   <img align="center" alt="PHP" height="50" src="https://simpleicons.org/icons/php.svg">
   <img align="center" alt="PYTHON" height="50" src="https://simpleicons.org/icons/python.svg"/>
   <img align="center" alt="C" height="50" src="https://simpleicons.org/icons/c.svg"/>

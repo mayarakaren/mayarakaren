@@ -87,7 +87,7 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
     
 <ul>
   <li>
-    📌 Monitoria: Matemática Para Computação:
+    📌 Monitoria: Matemática Para Computação;
     <ul>
       <li>📌 Principais assuntos:
         <ul>
@@ -98,6 +98,28 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
               <li>📚 Algoritmos de Busca;</li>
               <li>📚 Algoritmos de Percurso.</li>
             </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+---
+
+# <img src="https://github.com/davitorress/davitorress/raw/main/assets/fatec-registro.jpeg" width="75px" style="margin-right: 10px; border-radius: 99%" align="left"> Monitora Acadêmica na FATEC Registro
+
+<br>🗓️ 08/2023 - 11/2023 (3 meses)
+    
+<ul>
+  <li>
+    📌 Monitoria: Engenharia de Software I;
+    <ul>
+      <li>📌 Principais assuntos:
+        <ul>
+          <li>📚 LaTeX;</li>
+          <li>📚 Overleaf;</li>
+          <li>📚 Escrita de Artigo Científico.
           </li>
         </ul>
       </li>

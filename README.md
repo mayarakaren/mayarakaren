@@ -24,7 +24,7 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
           <h3 justify-content="center">Atividades Principais</h5>
 - :pushpin:AWS Cloud Data Engineering <br>              
 - :pushpin:SQL;              
-- :pushpin:Python (ETL, Pandas, Numpy..);               
+- :pushpin:Python: ETL, Pandas, Numpy;               
 - :pushpin:Componentes de Cloud: IAM, EC2, VPC, Lambda, Step Function;
 - :pushpin:Serviços analíticos: EMR, Glue, Athena, QuickSight;          
 - :pushpin:Processamento de dados com Spark;

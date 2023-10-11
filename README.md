@@ -86,7 +86,8 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
 
     <div style="display: flex; align-items: flex-start;">
       <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="150" style="margin-right: 20px;" />
-      <p style="flex: 1;">Azure AI Fundamentals (AI-900): Conquistei a certificação AI-900 fornecida pela Microsoft. Essa certificação valida meus conhecimentos sobre os fundamentos da inteligência artificial e como ela é aplicada na plataforma Azure. O exame abrangeu tópicos como aprendizado de máquina, visão computacional, processamento de linguagem natural e ética em IA.</p>
+      <img src="https://images.credly.com/size/340x340/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png" alt="Economics" width="200" height="200">
+      <img src="https://images.credly.com/size/340x340/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png" alt="Business" width="200" height="200">
     </div>
 
    

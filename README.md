@@ -60,13 +60,13 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
     <img align="center" alt="NOTION" height="50" src="https://simpleicons.org/icons/notion.svg"/>
     <img align="center" alt="MONGODB" height="50" src="https://simpleicons.org/icons/mongodb.svg"/> 
     <img align="center" alt="GIMP" height="50" src="https://simpleicons.org/icons/gimp.svg"/>
-    <img align="center" alt="CANVA" height="50" src="https://simpleicons.org/icons/canva.svg"/> 
+    <img align="center" alt="CANVA" height="50" src="https://www.svgrepo.com/show/341669/canva.svg"/> 
     
 
   - Gerenciamento de Pacotes:
   - pip: Experiência com o uso do pip para gerenciar pacotes e dependências em projetos Python.
     <br>
-    ## Experiência com Overleaf  <img align="center" alt="OVERLEAF" height="50" src="https://simpleicons.org/icons/overleaf.svg"/>
+    ## Experiência com Overleaf  <img align="center" alt="OVERLEAF" height="50" src="https://www.svgrepo.com/show/349470/overleaf.svg"/>
 
     - Utilização avançada do Overleaf: Tenho experiência em utilizar o Overleaf como uma poderosa ferramenta de edição de documentos LaTeX colaborativa. 
     Estou familiarizada com recursos como controle de versão, colaboração em tempo real e compartilhamento de projetos.

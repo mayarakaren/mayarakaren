@@ -34,7 +34,7 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
 
 - Linguagens de Programação:<br><br>
   
-  <img align="center" alt="HTML" height="50" src="https://simpleicons.org/icons/html5.svg">
+  <img align="center" alt="HTML" height="50" src="https://www.svgrepo.com/show/452228/html-5.svg">
   <img align="center" alt="Rafa-CSS" height="50" src="https://simpleicons.org/icons/css3.svg">
   <img align="center" alt="JS" height="50" src="https://simpleicons.org/icons/javascript.svg">
   <img align="center" alt="BOOTSTRAP" height="50" src="https://simpleicons.org/icons/bootstrap.svg"/>

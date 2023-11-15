@@ -35,38 +35,39 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
 - Linguagens de Programação:<br><br>
   
   <img align="center" alt="HTML" height="50" src="https://www.svgrepo.com/show/452228/html-5.svg">
-  <img align="center" alt="Rafa-CSS" height="50" src="https://simpleicons.org/icons/css3.svg">
-  <img align="center" alt="JS" height="50" src="https://simpleicons.org/icons/javascript.svg">
-  <img align="center" alt="BOOTSTRAP" height="50" src="https://simpleicons.org/icons/bootstrap.svg"/>
-  <img align="center" alt="JAVA" height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/java-512.png"/>
-  <img align="center" alt="PHP" height="50" src="https://simpleicons.org/icons/php.svg">
-  <img align="center" alt="PYTHON" height="50" src="https://simpleicons.org/icons/python.svg"/>
+  <img align="center" alt="Rafa-CSS" height="50" src="https://www.svgrepo.com/show/452185/css-3.svg">
+  <img align="center" alt="JS" height="50" src="https://www.svgrepo.com/show/373705/js-official.svg">
+  <img align="center" alt="BOOTSTRAP" height="50" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg"/>
+  <img align="center" alt="JAVA" height="50" src="https://www.svgrepo.com/show/353924/java.svg"/>
+  <img align="center" alt="PHP" height="50" src="https://www.svgrepo.com/show/452088/php.svg">
+  <img align="center" alt="PYTHON" height="50" src="https://www.svgrepo.com/show/452091/python.svg"/>
   <img align="center" alt="C" height="50" src="https://simpleicons.org/icons/c.svg"/>
   <img align="center" alt="C#" height="50" src="https://simpleicons.org/icons/csharp.svg"/>
-  <img align="center" alt="FLUTTER" height="50" src="https://simpleicons.org/icons/flutter.svg"/>
+  <img align="center" alt="FLUTTER" height="50" src="https://www.svgrepo.com/show/353751/flutter.svg"/>
     
  - Tecnologias e Ferramentas de Desenvolvimento:<br><br>
     
     <img align="center" alt="MYSQL" height="50" src="https://simpleicons.org/icons/mysql.svg">
-    <img align="center" alt="GIT" height="50" src="https://simpleicons.org/icons/git.svg"/>
-    <img align="center" alt="VSCODE" height="50" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
-    <img align="center" alt="NETBEAANS" height="50" src="https://simpleicons.org/icons/apachenetbeanside.svg"/>
+    <img align="center" alt="GIT" height="50" src="https://www.svgrepo.com/show/452210/git.svg"/>
+    <img align="center" alt="VSCODE" height="50" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
+    <img align="center" alt="NETBEANS" height="50" src="https://simpleicons.org/icons/apachenetbeanside.svg"/>
     <img align="center" alt="GITHUB" height="50" src="https://simpleicons.org/icons/github.svg"/>
-    <img align="center" alt="DJANGO" height="50" src="https://simpleicons.org/icons/django.svg"/>
-    <img align="center" alt="FLASK" height="50" src="https://simpleicons.org/icons/flask.svg"/>
+    <img align="center" alt="DJANGO" height="50" src="https://www.svgrepo.com/show/353657/django-icon.svg"/>
+    <img align="center" alt="FLASK" height="50" src="https://www.svgrepo.com/show/468917/flask-3.svg"/>
     <img align="center" alt="SQLITE" height="50" src="https://simpleicons.org/icons/sqlite.svg"/>
-    <img align="center" alt="FIGMA" height="50" src="https://simpleicons.org/icons/figma.svg"/>
-    <img align="center" alt="TRELLO" height="50" src="https://simpleicons.org/icons/trello.svg"/>
+    <img align="center" alt="FIGMA" height="50" src="https://www.svgrepo.com/show/448222/figma.svg"/>
+    <img align="center" alt="TRELLO" height="50" src="https://www.svgrepo.com/show/475688/trello-color.svg"/>
     <img align="center" alt="NOTION" height="50" src="https://simpleicons.org/icons/notion.svg"/>
-    <img align="center" alt="MONGODB" height="50" src="https://simpleicons.org/icons/mongodb.svg"/> 
-    <img align="center" alt="GIMP" height="50" src="https://simpleicons.org/icons/gimp.svg"/>
+    <img align="center" alt="MONGODB" height="50" src="https://www.svgrepo.com/show/331488/mongodb.svg"/> 
+    <img align="center" alt="GIMP" height="50" src="https://www.svgrepo.com/show/366177/gimp.svg"/>
     <img align="center" alt="CANVA" height="50" src="https://www.svgrepo.com/show/341669/canva.svg"/> 
     
 
   - Gerenciamento de Pacotes:
   - pip: Experiência com o uso do pip para gerenciar pacotes e dependências em projetos Python.
     <br>
-    ## Experiência com Overleaf  <img align="center" alt="OVERLEAF" height="50" src="https://www.svgrepo.com/show/349470/overleaf.svg"/>
+    
+    ## Experiência com Overleaf  <img align="center" alt="OVERLEAF" height="50" src="https://www.svgrepo.com/show/306528/overleaf.svg"/>
 
     - Utilização avançada do Overleaf: Tenho experiência em utilizar o Overleaf como uma poderosa ferramenta de edição de documentos LaTeX colaborativa. 
     Estou familiarizada com recursos como controle de versão, colaboração em tempo real e compartilhamento de projetos.

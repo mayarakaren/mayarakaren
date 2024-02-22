@@ -4,7 +4,7 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
 <br>
 <br>
 - 👩🏽‍💻| Técnica em Desenvolvimento de Sistemas;<br>
-- 📚|  Atualmente, estou cursando Desenvolvimento de Sistemas Multiplataformas - (4/6) na FATEC;<br>
+- 📚|  Atualmente, estou cursando Desenvolvimento de Sistemas Multiplataformas - (5/6) na FATEC;<br>
 - 🌱| Estou constantemente aprendendo e me atualizando sobre as melhores práticas de desenvolvimento;<br>
 - 👯| Estou em busca de oportunidades para colaborar em projetos desafiadores e trabalhar em equipe;<br>
 - 💬| Adoro compartilhar conhecimento e discutir ideias relacionadas a tecnologia;<br>

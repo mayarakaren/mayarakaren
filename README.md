@@ -16,8 +16,7 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
   <a href="https://github.com/mayarakaren">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayarakaren&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarakaren&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://streak-stats.demolab.com/?user=mayarakaren&theme=dracula&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak"/>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mayarakaren&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a></div>
   <div style="display: inline_block"><br>
 
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener noreferrer" ><img src="logo-uol-icon-512.png" height="75"  align='right' /></a>

@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Mayara 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB3FBE&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+I'm+Mayara+Karen.)](https://git.io/typing-svg)
 <hr>
 Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minha jornada começou quando me interessei por programação e desde então tenho buscado aprimorar minhas habilidades nessa área.
 <br>

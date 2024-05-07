@@ -29,7 +29,25 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
 - :pushpin:Componentes de Cloud: IAM, EC2, VPC, Lambda, Step Function;
 - :pushpin:Serviços analíticos: EMR, Glue, Athena, QuickSight;          
 - :pushpin:Processamento de dados com Spark;
-- :pushpin:Visualização e modelagem de dados. 
+- :pushpin:Visualização e modelagem de dados.
+
+<a href="https://www.sigagis.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://media.licdn.com/dms/image/D4D0BAQGiyMszzYn_sw/company-logo_200_200/0/1705498291752/localsig_inteligncia_geogrfica_ltda_logo?e=1723075200&v=beta&t=Fp4ghruqwt2pGXUuuaMqVox67PXmPFK9vHnX8OdarA8" height="75"  align='right' /></a>
+<br>
+## Estágio em Desenvolvimento de Software - SIG Inteligência Geográfica e Serviços Ltda (03/2024 - 05/2024)
+
+### Principais Atividades
+- :pushpin: Desenvolvimento de aplicativos móveis eficientes usando React Native.
+- :pushpin: Construção de interfaces web responsivas e de alto desempenho com Next.js.
+- :pushpin: Automação de processos utilizando Python para criação de scripts e robôs.
+- :pushpin: Colaboração em equipe para solução de problemas e compartilhamento de conhecimento.
+
+### Competências
+- React Native
+- Next.js
+- Python
+- Automação
+
+  ---
   
    ## Habilidades Técnicas
 
@@ -42,33 +60,35 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
   <img align="center" alt="JAVA" height="50" src="https://www.svgrepo.com/show/353924/java.svg"/>
   <img align="center" alt="PHP" height="50" src="https://www.svgrepo.com/show/452088/php.svg">
   <img align="center" alt="PYTHON" height="50" src="https://www.svgrepo.com/show/452091/python.svg"/>
-  <img align="center" alt="C" height="50" src="https://simpleicons.org/icons/c.svg"/>
-  <img align="center" alt="C#" height="50" src="https://simpleicons.org/icons/csharp.svg"/>
+  <img align="center" alt="C" height="50" src="https://lh5.googleusercontent.com/proxy/OsznyR97NRq7iKyQ9sZy3DpAk_ccRIsQwwanW3Ys74NFTjA9O4xjxpyOJvzv5T9v1vnwaRQbyo8VWWu91cxGVr_P81w"/>
+  <img align="center" alt="C#" height="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png"/>
   <img align="center" alt="FLUTTER" height="50" src="https://www.svgrepo.com/show/353751/flutter.svg"/>
+  <img align="center" alt="REACT" height="50" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png"/>
     
  - Tecnologias e Ferramentas de Desenvolvimento:<br><br>
     
-    <img align="center" alt="MYSQL" height="50" src="https://simpleicons.org/icons/mysql.svg">
+    <img align="center" alt="MYSQL" height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png">
     <img align="center" alt="GIT" height="50" src="https://www.svgrepo.com/show/452210/git.svg"/>
     <img align="center" alt="VSCODE" height="50" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
-    <img align="center" alt="NETBEANS" height="50" src="https://simpleicons.org/icons/apachenetbeanside.svg"/>
-    <img align="center" alt="GITHUB" height="50" src="https://simpleicons.org/icons/github.svg"/>
+    <img align="center" alt="NETBEANS" height="50" src="https://i0.wp.com/gluonhq.com/wp-content/uploads/2015/09/netbeans-logo-21.png?fit=224%2C224&ssl=1"/>
+    <img align="center" alt="GITHUB" height="50" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"/>
     <img align="center" alt="DJANGO" height="50" src="https://www.svgrepo.com/show/353657/django-icon.svg"/>
     <img align="center" alt="FLASK" height="50" src="https://www.svgrepo.com/show/468917/flask-3.svg"/>
-    <img align="center" alt="SQLITE" height="50" src="https://simpleicons.org/icons/sqlite.svg"/>
+    <img align="center" alt="SQLITE" height="50" src="https://w7.pngwing.com/pngs/1010/539/png-transparent-sqlite-logo-thumbnail-tech-companies.png"/>
     <img align="center" alt="FIGMA" height="50" src="https://www.svgrepo.com/show/448222/figma.svg"/>
     <img align="center" alt="TRELLO" height="50" src="https://www.svgrepo.com/show/475688/trello-color.svg"/>
-    <img align="center" alt="NOTION" height="50" src="https://simpleicons.org/icons/notion.svg"/>
+    <img align="center" alt="NOTION" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgFj2mh4vJiwj5YEw8BDqejeOv-pO3K3M5mG5p0cx-MQ&s"/>
     <img align="center" alt="MONGODB" height="50" src="https://www.svgrepo.com/show/331488/mongodb.svg"/> 
     <img align="center" alt="GIMP" height="50" src="https://www.svgrepo.com/show/366177/gimp.svg"/>
-    <img align="center" alt="CANVA" height="50" src="https://www.svgrepo.com/show/341669/canva.svg"/> 
-    
+    <img align="center" alt="CANVA" height="50" src="https://1000logos.net/wp-content/uploads/2021/10/Canva-Logo-2013.png"/> 
+    <img align="center" alt="NEXT" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KuaTwyYtOIYheVDOhA0dhSKIGD7w-zy8OXEFC3CCUQ&s"/> 
+
 
   - Gerenciamento de Pacotes:
   - pip: Experiência com o uso do pip para gerenciar pacotes e dependências em projetos Python.
     <br>
     
-    ## Experiência com Overleaf  <img align="center" alt="OVERLEAF" height="50" src="https://www.svgrepo.com/show/306528/overleaf.svg"/>
+    ## Experiência com Overleaf  <img align="center" alt="OVERLEAF" height="50" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"/>
 
     - Utilização avançada do Overleaf: Tenho experiência em utilizar o Overleaf como uma poderosa ferramenta de edição de documentos LaTeX colaborativa. 
     Estou familiarizada com recursos como controle de versão, colaboração em tempo real e compartilhamento de projetos.

@@ -74,7 +74,7 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
     <img align="center" alt="NOTION" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgFj2mh4vJiwj5YEw8BDqejeOv-pO3K3M5mG5p0cx-MQ&s"/>
     <img align="center" alt="MONGODB" height="50" src="https://www.svgrepo.com/show/331488/mongodb.svg"/> 
     <img align="center" alt="GIMP" height="50" src="https://www.svgrepo.com/show/366177/gimp.svg"/>
-    <br>
+    <br><br>
     <img align="center" alt="CANVA" height="50" src="https://1000logos.net/wp-content/uploads/2021/10/Canva-Logo-2013.png"/> 
     <img align="center" alt="NEXT" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KuaTwyYtOIYheVDOhA0dhSKIGD7w-zy8OXEFC3CCUQ&s"/> 
 

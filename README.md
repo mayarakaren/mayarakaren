@@ -31,7 +31,7 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
 - :pushpin:Processamento de dados com Spark;
 - :pushpin:Visualização e modelagem de dados.
 
-<a href="https://www.sigagis.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://media.licdn.com/dms/image/D4D0BAQGiyMszzYn_sw/company-logo_200_200/0/1705498291752/localsig_inteligncia_geogrfica_ltda_logo?e=1723075200&v=beta&t=Fp4ghruqwt2pGXUuuaMqVox67PXmPFK9vHnX8OdarA8" height="75"  align='right' /></a>
+<a href="https://www.sigagis.com.br/" target="_blank" rel="noopener noreferrer" ><img src="https://localsig.com.br/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.327cc381.png&w=48&q=75" height="75"  align='right' /></a>
 <br>
 ## Estágio em Desenvolvimento de Software - SIG Inteligência Geográfica e Serviços Ltda (03/2024 - 05/2024)
 
@@ -103,9 +103,6 @@ Sou um entusiasta da tecnologia apaixonada por desenvolvimento de sistemas. Minh
 
     <div style="display: flex; align-items: flex-start;">
       <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="200" style="margin-right: 20px;" />
-      <img src="https://images.credly.com/size/340x340/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png" alt="Economics" width="200" height="200">
-      <img src="https://images.credly.com/size/340x340/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png" alt="Business" width="200" height="200">
-      <img src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" alt="Technical" width="200" height="200">
     </div>
 
    
